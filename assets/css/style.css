@@ -1,0 +1,67 @@
+.answerchoice {
+    border: .5px dashed black;
+    border-radius: 5%;
+    width: 30%;
+    color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    /* background-color: white; */
+}
+
+img {
+  max-height: 280px;
+  width: auto;
+}
+
+#answerblock {
+    text-align: center;
+}
+
+#questionblock {
+    text-align: center;
+    font-weight: bold;
+}
+
+#restart {
+    visibility: visible;
+}
+
+body {
+    background-image: url("../images/718653_subtle-backgrounds-on-pinterest_1800x1200_h.jpg");
+    /* background-size: cover; */
+    font-family: 'Karla', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 45px;
+}
+
+p {
+    margin: 10px;
+    font-weight: bold;
+    color: purple;
+    font-size: 30px;
+}
+
+h2, h4 {
+    margin: 30px;
+    font-weight: bold;
+}
+
+.wrapper {
+    margin: 10px auto;
+    /* border: .5px dashed black; */
+    height: 500px;
+    width: 60%;
+    text-align: center;
+}
+
+.btn {
+    position: relative;
+    bottom: -150px;
+}
